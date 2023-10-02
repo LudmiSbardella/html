@@ -1,0 +1,51 @@
+body{
+    background-color:rgb(224, 140, 235);
+} 
+p{
+    background-color: rgb(201, 240, 221);
+}
+li{
+    background-color: rgb(236, 186, 186);
+img{
+    width: 200px;
+    height: 200px;
+}
+h1{
+    color: rgb(236, 228, 182);
+}
+#logo{
+    width: 20px;
+    height: 20px;
+}
+
+#barra{
+    display: flex;
+}
+.fondo{
+    background-color: rgb(224, 140, 235)
+
+.boton{
+    background-color: aliceblue;
+    padding: 5%;
+    margin: 2px;
+    font-size: large;
+    border: 3px rgb(163, 202, 241);
+}
+ 
+
+.titulo2{
+    color:rgb(165, 42, 79);
+}
+.texto{
+/*font size es el tamaño de la letra, weight es la altura
+ y Aling vendria a ser la posicion del texto, en
+ este caso en el centro
+ En el body (archivo HTML) abrimos un <p> (parrafo) y al lado
+ pondremos class junto con el nombre de la clase
+ Class="texto"*/
+     font-size: 18px;
+     font-weight: bold;
+     text-align: center;
+     color:rgb(115, 97, 133)
+ }
+
